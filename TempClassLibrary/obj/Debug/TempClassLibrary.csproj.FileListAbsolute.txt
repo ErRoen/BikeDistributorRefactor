@@ -1,0 +1,9 @@
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\TempClassLibrary\bin\Debug\TempClassLibrary.dll
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\TempClassLibrary\bin\Debug\TempClassLibrary.pdb
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\TempClassLibrary\bin\Debug\BikeDistributor.Library.dll
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\TempClassLibrary\bin\Debug\BikeDistributor.Data.dll
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\TempClassLibrary\bin\Debug\BikeDistributor.Library.pdb
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\TempClassLibrary\bin\Debug\BikeDistributor.Data.pdb
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\TempClassLibrary\obj\Debug\TempClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\TempClassLibrary\obj\Debug\TempClassLibrary.dll
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\TempClassLibrary\obj\Debug\TempClassLibrary.pdb

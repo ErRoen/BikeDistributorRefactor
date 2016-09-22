@@ -1,0 +1,7 @@
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\BikeDistributor\bin\Debug\BikeDistributor.Library.dll
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\BikeDistributor\bin\Debug\BikeDistributor.Library.pdb
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\BikeDistributor\bin\Debug\BikeDistributor.Data.dll
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\BikeDistributor\bin\Debug\BikeDistributor.Data.pdb
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\BikeDistributor\obj\Debug\BikeDistributor.Library.csprojResolveAssemblyReference.cache
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\BikeDistributor\obj\Debug\BikeDistributor.Library.dll
+C:\Users\ErRoen\Dropbox\Private\Work\bike-distributor-refactor2\BikeDistributor\obj\Debug\BikeDistributor.Library.pdb

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeDistributor.Library", "BikeDistributor\BikeDistributor.Library.csproj", "{4FBA25B5-279C-4FD3-A904-FF88BEF4A480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeDistributor.Test", "BikeDistributor.Test\BikeDistributor.Test.csproj", "{543D14A7-DC7A-4E49-9761-CA6B311DB0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeDistributor.Data", "BikeDistributor.Repository\BikeDistributor.Data.csproj", "{A3452B78-8B45-44DC-99F3-D0A6D4C31658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeDistributor.Printers", "BikeDistributor.Printers\BikeDistributor.Printers.csproj", "{0E34641C-B42F-4689-9657-91D2B6DADE63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempClassLibrary", "TempClassLibrary\TempClassLibrary.csproj", "{D37A71AA-04F1-48A0-901C-17DD625B68E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FBA25B5-279C-4FD3-A904-FF88BEF4A480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBA25B5-279C-4FD3-A904-FF88BEF4A480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBA25B5-279C-4FD3-A904-FF88BEF4A480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBA25B5-279C-4FD3-A904-FF88BEF4A480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{543D14A7-DC7A-4E49-9761-CA6B311DB0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543D14A7-DC7A-4E49-9761-CA6B311DB0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543D14A7-DC7A-4E49-9761-CA6B311DB0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543D14A7-DC7A-4E49-9761-CA6B311DB0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3452B78-8B45-44DC-99F3-D0A6D4C31658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3452B78-8B45-44DC-99F3-D0A6D4C31658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3452B78-8B45-44DC-99F3-D0A6D4C31658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3452B78-8B45-44DC-99F3-D0A6D4C31658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E34641C-B42F-4689-9657-91D2B6DADE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E34641C-B42F-4689-9657-91D2B6DADE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E34641C-B42F-4689-9657-91D2B6DADE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E34641C-B42F-4689-9657-91D2B6DADE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37A71AA-04F1-48A0-901C-17DD625B68E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37A71AA-04F1-48A0-901C-17DD625B68E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37A71AA-04F1-48A0-901C-17DD625B68E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37A71AA-04F1-48A0-901C-17DD625B68E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
